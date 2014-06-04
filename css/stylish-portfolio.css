@@ -4,6 +4,7 @@ html,
 body {
   height: 100%;
   width: 100%;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .vert-text {
@@ -134,6 +135,9 @@ body {
 
 .service-item {
   margin-bottom: 15px;
+}
+.service-item p{
+    text-align: justify;
 }
 
 i.service-icon {
